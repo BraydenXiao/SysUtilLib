@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="warning_no_gallery">Sorry! You must install a gallery app first!</string>
+    <string name="warning_no_camera">Sorry! You must install a camera app first!</string>
+    <string name="warning_no_sd">Sorry! Can not find sd card! check it or restart your device!</string>
+    <string name="warning_no_image">Sorry! Can not find image!</string>
+    <string name="warning_no_memory">Sorry! Memory is full, clear it and restart app!</string>
+    <string name="warning_no_sdmemory">Sorry! SD card is full!</string>
+    <string name="warning_no_installed">Sorry! This app is not installed!</string>
+    <string name="warning_failed_wallpaper">Sorry! Wallpaper set failed!</string>
+    <string name="warning_failed_save">Sorry! Image save failed!</string>
+    <string name="warning_failed_connectnet">Sorry! Connect internet failed!</string>
+    <string name="warning_failed_download">Sorry! Download failed!</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="warning_no_gallery">找不到圖庫應用,請安裝後重試!</string>
+    <string name="warning_no_camera">找不到相機應用,請安裝後重試!</string>
+    <string name="warning_no_sd">找不到外部存儲設備,請檢查後重試!</string>
+    <string name="warning_no_image">找不到圖片,請重試!</string>
+    <string name="warning_no_memory">內存不足,請先清理然後重啟應用!</string>
+    <string name="warning_no_sdmemory">SD卡存儲空間不足,請先清理然後重啟應用!</string>
+    <string name="warning_no_installed">找不到該應用,請安裝後重試!</string>
+    <string name="warning_failed_wallpaper">設置壁紙失敗!</string>
+    <string name="warning_failed_save">圖片保存失敗!</string>
+    <string name="warning_failed_connectnet">網絡連接失敗！請檢查連接設置！</string>
+    <string name="warning_failed_download">素材下載失敗,請重試!</string>
+</resources>
